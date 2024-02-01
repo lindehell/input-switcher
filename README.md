@@ -1,3 +1,5 @@
+# Tinkered to make it work for my setup. Just followed the guidelines below. 
+
 # Logitech MX - Input Switcher
 
 # 1 - Introduction
